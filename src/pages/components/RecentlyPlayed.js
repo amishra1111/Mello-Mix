@@ -51,7 +51,7 @@ const RecentlyPlayed = props => {
                 boxSizing: 'border-box'
               }}
               className='blockImg'
-              src={`/img/playlist1/${data}.jpg`}
+              src={`/img/playlist1/${data}.webp`}
               width='140'
               height='150'
               alt={data}
